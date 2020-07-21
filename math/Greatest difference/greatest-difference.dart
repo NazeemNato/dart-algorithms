@@ -17,5 +17,5 @@ greatestDifference(List numbers){
       smallest = number;
     }
   }
-  return largest - smallest;
+  return largest-smallest;
 }

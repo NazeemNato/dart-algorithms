@@ -1,4 +1,4 @@
-# Greatest Difference
+# Greatest Difference.
 
 ## My social media 🤪
 
