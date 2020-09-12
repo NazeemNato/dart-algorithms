@@ -13,4 +13,4 @@ The Fisher–Yates shuffle is an algorithm for generating a random permutation o
 2. [Twitter](https://twitter.com/juventusRuling)
 
 
-3. [Linkedin](https://www.linkedin.com/in/muhammad-nazeem-5ab092180/)
+3. [Linkedin](https://www.linkedin.com/in/n4ze3m)

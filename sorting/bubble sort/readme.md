@@ -36,4 +36,4 @@ Now, the array is already sorted, but our algorithm does not know if it is compl
 2. [Twitter](https://twitter.com/juventusRuling)
 
 
-3. [Linkedin](https://www.linkedin.com/in/muhammad-nazeem-5ab092180/)
+3. [Linkedin](https://www.linkedin.com/in/n4ze3m)

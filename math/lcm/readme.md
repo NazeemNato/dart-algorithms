@@ -11,4 +11,4 @@ For example LCM of 15 and 20 is 60 and LCM of 5 and 7 is 35.
 2. [Twitter](https://twitter.com/juventusRuling)
 
 
-3. [Linkedin](https://www.linkedin.com/in/muhammad-nazeem-5ab092180/)
+3. [Linkedin](https://www.linkedin.com/in/n4ze3m)
