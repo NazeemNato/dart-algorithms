@@ -10,4 +10,4 @@ Given weights and values of n items, put these items in a knapsack of capacity W
 2. [Twitter](https://twitter.com/juventusRuling)
 
 
-3. [Linkedin](https://www.linkedin.com/in/muhammad-nazeem-5ab092180/)
+3. [Linkedin](https://www.linkedin.com/in/n4ze3m)
